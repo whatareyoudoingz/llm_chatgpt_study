@@ -1,3 +1,4 @@
+python-dotenv
 langchain==0.0.330
 openai==0.28.1
 PyPDF2==3.0.1
